@@ -1,12 +1,12 @@
 header#masthead{
 	text-align: center;
-	padding-top:3.5em;
+	padding-top:2em;
 }
 header#masthead hgroup{
 	padding-bottom: 1em;
 }
 header#masthead .site-title{
-	font-size: 5em;
+	font-size: 4em;
 }
 header#masthead .site-title a,
 header#masthead .site-title a:visited{
